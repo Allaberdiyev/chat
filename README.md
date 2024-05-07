@@ -1,24 +1,5 @@
-# lesson_26
-
-A new Flutter project.
-
-## Getting Started
+![image](https://github.com/Allaberdiyev/chat/assets/149064535/4a1096ee-cb30-4bfc-b56a-cdaab974dd9e)
+![image](https://github.com/Allaberdiyev/chat/assets/149064535/397234cf-a3b9-495c-adbe-61f4ef18b6d6)
+![image](https://github.com/Allaberdiyev/chat/assets/149064535/5d26e58a-a4e6-49a9-8daa-0b857008f717)
 
 
-<img src="assets/page1.png" width="350" title="hover text">
-<img src="assets/page2.png" width="350" title="hover text">
-<img src="assets/page2.png" width="350" title="hover text">
-<img src="assets/darsdagi.png" width="350" title="hover text">
-
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
