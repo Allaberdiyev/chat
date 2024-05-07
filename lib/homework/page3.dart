@@ -12,7 +12,7 @@ class Page3 extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Padding(
-          padding: EdgeInsets.all(26),
+          padding: EdgeInsets.all(27),
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
