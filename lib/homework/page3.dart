@@ -217,7 +217,7 @@ class Page3 extends StatelessWidget {
                 ),
               ),
               SizedBox(
-                height: 20,
+                height: 19,
               ),
               Row(
                 children: [
