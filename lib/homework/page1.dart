@@ -151,7 +151,7 @@ class Page1 extends StatelessWidget {
                 child: Row(
                   children: [
                     SizedBox(
-                      width: 10,
+                      width: 9,
                     ),
                     Text(
                       "Soup   X",
