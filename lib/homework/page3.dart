@@ -211,7 +211,7 @@ class Page3 extends StatelessWidget {
                   child: Text(
                     "Okay, wait a minute",
                     style: TextStyle(
-                      fontSize: 14,
+                      fontSize: 15,
                     ),
                   ),
                 ),
